@@ -1,0 +1,7 @@
+[package]
+name = "license-zero-test-package"
+version = "0.1.0"
+authors = ["Kyle E. Mitchell <kyle@kemitchell.com>"]
+edition = "2018"
+
+[dependencies]
