@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("This is a crate for which private licenses are available through licensezero.com.");
 }
