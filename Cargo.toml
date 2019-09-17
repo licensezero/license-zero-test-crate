@@ -1,7 +1,23 @@
 [package]
-name = "license-zero-test-package"
+name = "license-zero-test-crate"
 version = "0.1.0"
 authors = ["Kyle E. Mitchell <kyle@kemitchell.com>"]
 edition = "2018"
 
 [dependencies]
+
+[package.metadata.licensezero]
+version = "1.0.0"
+
+  [[package.metadata.licensezero.ids]]
+  agentSignature = "99f940a4937204a51d86e95e3733bdc69ec3d16ad3b8aaf25d370da063fc90778e61e9886ac1ed7c5e65021889c8d891b96f0c5addd9d9b651ac5b1eb8b3ac01"
+  licensorSignature = "c475a1104409f8117e66be4dd09997d1e15ca8513d578edc7d80f6662434b13ebb55a0b7f4ecffbb9fa9be588ad3fd0630471ebb5fb7d7b77cc065e98d549502"
+
+    [package.metadata.licensezero.ids.license]
+    homepage = "https://github.com/licensezero/license-zero-test-crate"
+    jurisdiction = "US-CA"
+    name = "Kyle E. Mitchell"
+    projectID = "a72f8da3-429a-4bd5-8c2d-4242344b9cd3"
+    publicKey = "1589d5a1b9b6b6ca26515b65fe9f725410c9f7fa41bcd9954a84d76f47cc6482"
+    terms = "parity"
+    version = "6.0.0"
