@@ -2,6 +2,7 @@
 name = "license-zero-test-crate"
 version = "0.1.0"
 authors = ["Kyle E. Mitchell <kyle@kemitchell.com>"]
+license = "Parity-6.0.0"
 edition = "2018"
 
 [dependencies]
