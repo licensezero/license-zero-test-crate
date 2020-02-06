@@ -1,6 +1,6 @@
 [package]
 name = "license-zero-test-crate"
-version = "2.0.0"
+version = "3.0.0"
 description = "License Zero test crate"
 authors = ["Kyle E. Mitchell <kyle@kemitchell.com>"]
 license = "Parity-7.0.0"
