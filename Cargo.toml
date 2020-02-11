@@ -9,5 +9,5 @@ edition = "2018"
 [dependencies]
 
 [[package.metadata.licensezero.offers]]
-api = "https://api.licensezero.com"
+api = "https://broker.licensezero.com"
 offerID = "6f59a982-6982-4495-b59b-3f233ab8ad71"
